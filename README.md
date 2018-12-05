@@ -1,8 +1,8 @@
 # ipfs-cluster
 
-> README describes IPFS cluster configuration
+> it describes IPFS cluster configuration
 
-private IPFS cluster can be used for backup. this cluster will be composed with one leader node and following nodes.
+Private IPFS cluster can be used for backup. That cluster will be composed with one leader node and following nodes.
 
 ## Prerequisite
 
